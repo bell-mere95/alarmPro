@@ -144,4 +144,3 @@ def main():
     root = tk.Tk()
     App(root)
     root.mainloop()
-    pass
